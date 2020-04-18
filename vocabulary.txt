@@ -1,0 +1,7 @@
+anagram:回文构词法
+get jacked:练肌肉（汗😓）
+divisor:被除数
+divident:除数
+lexicographically：字典法，字典序
+permutation：排列,置换（混洗）
+congruent（congruence）：全等
